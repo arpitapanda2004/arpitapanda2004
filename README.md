@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arpita Panda</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
+<p align="left"><img src="https://miro.medium.com/v2/resize:fit:1280/1*uYkZXXw-QL-N_1gVndPH9A.gif"></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitapanda2004&label=Profile%20views&color=0e75b6&style=flat" alt="arpitapanda2004" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpitapanda2004" alt="arpitapanda2004" /></a> </p>
