@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python, JAVA, HTML, CSS, JavaScript, React**
 
-- 💬 Ask me about **Python, React JS**
+- 💬 Ask me about **Python, React**
 
 - 📫 How to reach me **pandaarpita0904@gmail.com**
 
