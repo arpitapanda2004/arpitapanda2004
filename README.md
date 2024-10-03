@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpitapanda2004" alt="arpitapanda2004" /></a> </p>
 
-- 🌱 I’m currently learning **Python, JAVA, HTML, CSS, JavaScript, React JS**
+- 🌱 I’m currently learning **Python, HTML, CSS, JavaScript, React JS**
 
 - 💬 Ask me about **Python, React JS**
 
