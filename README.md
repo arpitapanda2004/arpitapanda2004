@@ -5,7 +5,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpitapanda2004" alt="arpitapanda2004" /></a> </p>
 
-- 🌱 I’m currently learning **Python, HTML, CSS, JavaScript, React JS**
+
+- 🎓 B.Tech CSE Student (2027 Passout)
+
+- 🌱 Currently learning Data Engineering, T-SQL, Python, Azure, ETL Pipelines, and Data Warehousing
+
+- 💡 Interested in Data Engineering, Data Analytics, Cloud Technologies, and AI
+
+- 📊 Skilled in SQL, T-SQL, Python, Power BI, Tableau, Excel
+
+- 🔍 Exploring Big Data Technologies, Data Pipelines, and Cloud Platforms
 
 - 💬 Ask me about **Python, React JS**
 
