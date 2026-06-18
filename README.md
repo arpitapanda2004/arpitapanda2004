@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arpita Panda</h1>
-<h3 align="center">A passionate Programmer from India</h3>
+<h3 align="center">A passionate Data Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitapanda2004&label=Profile%20views&color=0e75b6&style=flat" alt="arpitapanda2004" /> </p>
 
@@ -8,11 +8,11 @@
 
 - 🎓 B.Tech CSE Student (2027 Passout)
 
-- 🌱 Currently learning Data Engineering, T-SQL, Python, Azure, ETL Pipelines, and Data Warehousing
+- 🌱 Currently learning Data Engineering, SQL, Python, Azure, AWS, Snowflake
 
 - 💡 Interested in Data Engineering, Data Analytics, Cloud Technologies, and AI
 
-- 📊 Skilled in SQL, T-SQL, Python, Power BI, Tableau, Excel
+- 📊 Skilled in SQL, Python, Power BI, Tableau, Excel
 
 - 🔍 Exploring Big Data Technologies, Data Pipelines, and Cloud Platforms
 
