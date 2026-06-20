@@ -16,7 +16,7 @@
 
 - 🔍 Exploring Big Data Technologies, Data Pipelines, and Cloud Platforms
 
-- 💬 Ask me about **Python, React JS**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **pandaarpita0904@gmail.com**
 
